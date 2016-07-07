@@ -1,3 +1,5 @@
+Codes for publication: http://proxy.library.upenn.edu:2150/nmat/journal/vaop/ncurrent/full/nmat4663.html
+
 #List of directories and description
 More detailed descriptions of codes are written at start of file
 
